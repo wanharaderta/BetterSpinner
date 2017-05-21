@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ArchivLib</string>
+
+    <string-array name="list_city">
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Tangerang</item>
+        <item>Makassar</item>
+        <item>Medan</item>
+        <item>Banda Aceh</item>
+        <item>Papua</item>
+        <item>Kalimantan</item>
+    </string-array>
+</resources>
